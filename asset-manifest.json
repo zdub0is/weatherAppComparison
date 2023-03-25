@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/weatherAppComparison/static/css/main.07b3b55f.css",
+    "main.js": "/weatherAppComparison/static/js/main.21e93c23.js",
+    "static/js/787.a808f95c.chunk.js": "/weatherAppComparison/static/js/787.a808f95c.chunk.js",
+    "static/media/homeTabBG.png": "/weatherAppComparison/static/media/homeTabBG.795bb7de3447913069ae.png",
+    "index.html": "/weatherAppComparison/index.html",
+    "main.07b3b55f.css.map": "/weatherAppComparison/static/css/main.07b3b55f.css.map",
+    "main.21e93c23.js.map": "/weatherAppComparison/static/js/main.21e93c23.js.map",
+    "787.a808f95c.chunk.js.map": "/weatherAppComparison/static/js/787.a808f95c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.07b3b55f.css",
+    "static/js/main.21e93c23.js"
+  ]
+}
