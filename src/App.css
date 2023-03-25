@@ -1,5 +1,5 @@
-.Home .bg {
-    background-image: url("https://cdn.pixabay.com/photo/2023/03/19/08/07/network-7862055_960_720.jpg");
+.Home {
+    background-image: url("../public/homeTabBG.png");
 }
 
 .Home .myCard {
@@ -10,4 +10,25 @@ box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
 backdrop-filter: blur(8.5px);
 -webkit-backdrop-filter: blur(8.5px);
 border: 1px solid rgba(255, 255, 255, 0.56);
+}
+
+.nav {
+  background-color: #262626;
+  color: inherit;
+  text-decoration: none;
+ }
+
+ .nav-link {
+  color: inherit;
+  text-decoration: none;
+}
+
+.nav-link:hover {
+  color: inherit;
+  filter: brightness(150%);
+  text-decoration: none;
+}
+
+.nav-item .active {
+  background-color: #414141;
 }
