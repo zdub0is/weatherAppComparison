@@ -1,5 +1,13 @@
 .Home {
     background-image: url("../public/homeTabBG.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+      width: 100%;
+      max-width: 100%;
+      padding-right: 15px;
+      padding-left: 15px;
+      margin-right: auto;
+      margin-left: auto;
 }
 
 .Home .myCard {
