@@ -12,12 +12,11 @@ import GoogleBard from './tabs/GoogleBard'
 function App() {
   const [key, setKey] = useState('home')
   return (
-    <div className="App">
+    <div className="App bg-dark text-light min-vh-100">
       <Tabs
       id="controlled-tab-example"
       activeKey={key}
       onSelect={(k) => setKey(k)}
-      className="mb-3 bg-dark text-light"
     >
       <Tab eventKey="home" title="Home">
         <Home />
